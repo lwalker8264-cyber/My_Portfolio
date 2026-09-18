@@ -1,5 +1,7 @@
 # Cane's Operations Dashboard
 
+**[📄 View full PDF export](./Canes_Operations_Dashboard.pdf)**
+
 A Power BI dashboard analyzing sales trends, labor cost, and inventory usage for a quick-service restaurant location — built to demonstrate data modeling, Power Query transformation, and DAX measure development using patterns from real restaurant management experience.
 
 ![Overview page](overview.png)
